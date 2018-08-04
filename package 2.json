@@ -1,0 +1,25 @@
+{
+  "name": "lucasdasilva",
+  "version": "1.0.0",
+  "description": "This is my first time",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas3030/sheilas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas3030/sheilas/issues"
+  },
+  "homepage": "https://github.com/lucas3030/sheilas#readme"
+}
